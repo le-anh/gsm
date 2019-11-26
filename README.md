@@ -1,2 +1,2 @@
-# gsm
+# GSN
 Gen System Management
