@@ -1,2 +1,2 @@
-# GSN
+# GSM
 Gen System Management
